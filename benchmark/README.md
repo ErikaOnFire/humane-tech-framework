@@ -81,7 +81,7 @@ Of these fields, `input` and `target` are required. The others serve as metadata
 
 Evaluation results are saved in the `logs/` directory with detailed scoring and analysis of how each persona performs across different human-friendliness principles. Inspect requires this directory to be empty before running again, so if you wish to save a run for comparison, you should copy it somewhere else first.
 
-### Here is an video of Humane Tech member Jack Senechal running this inspect framework against OpenAI's GPT 4.0 vs. Claude Sonnet 3.5:
+### Here is an video of Humane Tech member Jack Senechal running this inspect framework against OpenAI's GPT 4o vs. Claude Sonnet 3.5:
 
 [![Inspect LLM Demo](https://p144.p3.n0.cdn.zight.com/items/6qupqLxX/293550a6-cea8-4cc4-bb0a-f7f6f530c577.png)](https://drodio.wistia.com/medias/njfoa1856w)
 
