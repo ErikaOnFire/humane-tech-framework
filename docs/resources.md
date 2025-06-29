@@ -39,6 +39,7 @@ A curated collection of resources on humane technology, digital wellbeing, and e
 - "Value Sensitive Design and Information Systems" by Friedman, Kahn & Borning
 - "Dark Patterns: Design with Intent" by Harry Brignull
 - "The Ethics of User Experience Design" by Nodder
+- "Challenging social media threats using collective well-being-aware recommendation algorithms and an educational virtual companion" by Ogibene et al.
 
 ## Organizations and Initiatives
 
